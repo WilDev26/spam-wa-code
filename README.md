@@ -7,9 +7,17 @@ Gunakan script ini dengan bijak.!
 ## SALIN DI TERMUX/SSH USER LALU ENTER
 ```bash
 pkg update -y && pkg upgrade -y
+```
+```bash
 pkg install git -y
+```
+```bash
 pkg install nodejs
+```
+```bash
 pkg install nodejs-lts
+```
+```bash
 git clone https://github.com/WilDev26/spam-wa-code
 ```
 ## JIKA SUDAH TER-INSTALL CLONE SALIN ENTER
