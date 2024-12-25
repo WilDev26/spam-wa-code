@@ -4,11 +4,7 @@
 
 ## SALIN PERINTAH LALU ENTER
 ```makefile
-pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs && pkg install nodejs-lts && git clone https://github.com/WilDev26/spam-wa-code.git && cd spam-wa-code && npm install 
-```
-## UNTUK MENJALANKAN FILE SALIN CODE & PASTE LALU ENTER
-```makefile
-npm start
+pkg update -y && pkg upgrade -y && pkg install git -y && pkg install nodejs && pkg install nodejs-lts && git clone https://github.com/WilDev26/spam-wa-code.git && cd spam-wa-code && npm install && npm start
 ```
 ## author : WILDEV
 ## BUG LAPORKAN
