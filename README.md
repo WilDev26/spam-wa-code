@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=GUNAKAN-TOOLS-DENGAN-BIJAKSANA )](https://git.io/typing-svg) 
+## SAYA HAPUS FILE NYA KARENA BANYAK DISALAH GUNAKAN OLEH ORANG
 ## DOWNLOAD TERMUX FDROID
 * Unduh & Install Termux [`Klik Disini`](https://f-droid.org/repo/com.termux_118.apk)
 
